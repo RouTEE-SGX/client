@@ -78,7 +78,7 @@ client.py가 실행되면 적절한 script 파일명 입력 (ex. scriptAddUser)
 -->
 
 <!--
-Past runClient.sh
+fast version of `runClient.sh`
 
 #!/bin/bash
 
